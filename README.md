@@ -1,11 +1,5 @@
 # **🛒** E-Commerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
-
 This is a  **fully responsive E-commerce Website** , designed for maximum compatibility across all devices (desktop, tablet, and mobile). Built with  **HTML, CSS, and JavaScript** , this project showcases a clean UI, responsive layout, and essential e-commerce features.
 
 ---
@@ -29,7 +23,7 @@ This is a  **fully responsive E-commerce Website** , designed for maximum compat
 
 * **HTML5**
 * **CSS3 (Custom + Prefix Styles)**
-* **JavaScript** 
+* **JavaScript**
 
 ---
 
